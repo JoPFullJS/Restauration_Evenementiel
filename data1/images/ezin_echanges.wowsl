@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.9</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>ezin_echanges</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blur</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/quiet/</ImageTemplate>
+            <ImageTemplateName>Quiet</ImageTemplateName>
+            <ImageWidth>830</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/wamp/www/Antonio_amoussou/admin/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/wamp/www/Antonio_amoussou/admin</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>50</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>quiet</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/fondateur.jpg</url>
+                <title>Fondateur</title>
+                <description>AMOUSSOU EZIN JEAN-luc</description>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/silhouette.jpg</url>
+                <title>JOPHA Freddy</title>
+                <description>Vice-Fondateur,Directeur du département informatique et graphique</description>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/amoussou_edmond_pierre.jpg</url>
+                <title>AMOUSSOU EDMOND PIERRE</title>
+                <description>Vice-président du conseil d'administration</description>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/silhouette2.jpg</url>
+                <title>OGOUMA IFEDE SIMON</title>
+                <description>Président du conseil d'administration</description>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/silhouette3.jpg</url>
+                <title>Mr. POTTEZ</title>
+                <description>Cabinet juridique et conseil</description>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/silhouette4.jpg</url>
+                <title>MALFAIT Amelie</title>
+                <description>Directrice du departement approvisonnement - FRANCE</description>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/Daudresse_stephanie.jpg</url>
+                <title>DAUDRESSE Stephanie</title>
+                <description>Assistante de direction en France</description>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/PETIPREZ-MAXIME.jpg</url>
+                <title>PETIPREZ-MAXIME</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/gorge.jpg</url>
+                <title>gorge</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/francis.jpg</url>
+                <title>francis</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/viviane.jpg</url>
+                <title>viviane</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/Donatien.jpg</url>
+                <title>Donatien</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/nicole_quenum_kouame.jpg</url>
+                <title>nicole_quenum_kouame</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/livraison_de_repas.jpg</url>
+                <title>livraison_de_repas</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/service_traiteur.jpg</url>
+                <title>service_traiteur</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/Antonio_amoussou/doc/EZIN/Slider/tourisme.jpg</url>
+                <title>tourisme</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
